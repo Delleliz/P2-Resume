@@ -1,6 +1,6 @@
 /* Your Website Styles */
 body {
-	background: #eee;
+	background: none;
 }
 
 
@@ -19,6 +19,8 @@ h1,h2 {
 img.profile {
 	width: 250px;
 }
+
+
 
 p, li {
 	font-family: 'Lora', serif;
