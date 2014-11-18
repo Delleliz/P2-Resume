@@ -8,6 +8,11 @@ div {
 	margin-top: -60px;	x 
 }
 
+h1,h2 {
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase; 
+}
+
 
 /* Show Grid */
 .showgrid {
