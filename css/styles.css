@@ -18,6 +18,7 @@ h1,h2 {
 
 img.profile {
 	width: 250px;
+	float: right;
 }
 
 
