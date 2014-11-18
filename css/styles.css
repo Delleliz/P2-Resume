@@ -16,6 +16,10 @@ h1,h2 {
 
 }
 
+img.profile {
+	width: 250px;
+}
+
 p, li {
 	font-family: 'Lora', serif;
 	list-style-type: none; 
